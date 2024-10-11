@@ -21,3 +21,23 @@
 
 # sumOfDigit()
 
+# String and Conditionals
+
+# str1 = "This is a string." # 'a', "a", """a"""
+
+# str2 = "This is Nishant's Learning. \n Ani k xa aru"
+
+
+# print(len(str1))
+# print(str2[9])
+
+# if - elif - else
+
+a = 10
+
+if(a<10):
+    print("pasa")
+elif(a==10):
+    print("Hmm Pasa")
+else:
+    print("Jhyau xa ho.")
