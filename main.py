@@ -33,11 +33,22 @@
 
 # if - elif - else
 
-a = 10
+# a = 10
 
-if(a<10):
-    print("pasa")
-elif(a==10):
-    print("Hmm Pasa")
-else:
-    print("Jhyau xa ho.")
+# if(a<10):
+#     print("pasa")
+# elif(a==10):
+#     print("Hmm Pasa")
+# else:
+#     print("Jhyau xa ho.")
+
+# Lists and Tuples
+
+# fruits = ["Apple", "Banana", "Cantalope", "Dragon Fruit", "Eeeeee"]
+
+# fruits.append("Fin Fruit")
+
+# print(type(fruits), fruits)
+
+name = ("Pasa", "Nepal", "Bajhang", "Kathmandu")
+print(type(name))
