@@ -68,3 +68,24 @@
 # set1 = {1,2,3}
 
 # expty_set = set()
+
+
+# Loops
+
+# while loop
+
+# a = 1
+
+# while a <= 100:
+#     print(a)
+#     a += 1
+#     a -= 1
+
+
+lst = [1,4,9,16,25,36,49,64,81,100]
+
+num = len(lst)
+
+
+while lst <= num:
+    print(lst[lst])
