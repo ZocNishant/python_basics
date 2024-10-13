@@ -50,5 +50,21 @@
 
 # print(type(fruits), fruits)
 
-name = ("Pasa", "Nepal", "Bajhang", "Kathmandu")
-print(type(name))
+# name = ("Pasa", "Nepal", "Bajhang", "Kathmandu")
+# print(type(name))
+
+# dictionary and sets
+
+# dist = {
+#     "name" : "Nishant",
+#     "age": 19,
+# }
+
+# print(dist["name"])
+
+# set
+
+
+# set1 = {1,2,3}
+
+# expty_set = set()
