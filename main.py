@@ -82,10 +82,54 @@
 #     a -= 1
 
 
-lst = [1,4,9,16,25,36,49,64,81,100]
+# lst = [1,4,9,16,25,36,49,64,81,100]
 
-num = len(lst)
+# num = len(lst)
 
 
-while lst <= num:
-    print(lst[lst])
+# while lst <= num:
+#     print(lst[lst])
+
+
+# for in loop
+
+# num = [1,2,3,4,5,6,7,8,9]
+
+# for number in num:
+#     print(number)
+
+
+# for x in range(5):
+#     print(x)
+
+# for x in range(3,7):
+#     print(x)
+
+# for x in range(1,9,2):
+#     print(x)
+
+
+# numb = 5
+# while numb <= 9:
+#     print(numb)
+#     numb += 1
+
+
+# for x in range(100):
+#     if x % 2 == 0:
+#         continue
+#     print(x)
+
+# Function
+
+# def calc_sum(a, b):
+#     sum = a + b
+#     print(sum)
+
+# calc_sum(1,2)
+
+
+# def average_nums(a,b,c):
+#     return (a + b + c / 3)
+
+# print(average_nums(1,2,3))
