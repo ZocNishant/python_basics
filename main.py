@@ -152,3 +152,37 @@
 # os.remove("demo.txt")
 
 # OOPS
+
+# class manxe:
+#     name = "Nishant"
+#     def kHoNaam(self):
+#         return self.name
+#     print(name)
+
+
+# munxe = manxe()
+# print(type(munxe))
+
+# class Student:
+#     name = "Pasa K xa"
+
+# student1 = Student()
+
+# class Student:
+#     # default constructor
+#     # def __init__(self):
+#     #     pass
+    
+#     # parameterized constructor
+#     def __init__(self, name, age):
+#         self.name = name
+#         self.age = age
+#         print("Adding new Student to the field")
+
+# std1 = Student("Nishant", 34)
+# print(std1.name, std1.age)
+
+
+# std2 = Student("Joshi", 23)
+# print(std2.name, std2.age)
+
