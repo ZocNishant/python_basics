@@ -133,3 +133,22 @@
 #     return (a + b + c / 3)
 
 # print(average_nums(1,2,3))
+
+# File I/O (Input/Output)
+
+# f = open("demo.txt", "r")
+
+# data = f.read()
+# print(type(data),data)
+
+# f.close()
+
+# with open("demo.txt", "r") as f:
+#     data = f.read()
+#     print(data)
+
+# import os
+
+# os.remove("demo.txt")
+
+# OOPS
