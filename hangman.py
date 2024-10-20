@@ -2647,4 +2647,4 @@ words = [
 ]
 
 
-print(random.choice(words))
+print(random.choice(words))  # Random word choosing
